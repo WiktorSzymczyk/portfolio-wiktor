@@ -12,5 +12,5 @@ export const educationData = [
         course: 'High School',
         startYear: 'July 2016 ',
         endYear: 'May 2022'
-    },git 
+    },
 ]
