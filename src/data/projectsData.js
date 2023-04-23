@@ -29,11 +29,11 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'ToDo App',
+        projectDesc: 'This project is focusing on allowing users to enter their ToDo task, and remove them once the task is done..',
+        tags: ['HTML', 'CSS', 'ReactJS'],
+        code: 'https://github.com/WiktorSzymczyk/ToDoApp',
+        demo: 'https://neon-salamander-162abf.netlify.app/',
         image: three
     },
     // {
